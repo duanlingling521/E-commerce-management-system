@@ -1,0 +1,4 @@
+{
+    "semi":false,
+    "singlelqyote":true
+}
